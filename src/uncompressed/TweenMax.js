@@ -4669,7 +4669,7 @@
  * EasePack
  * ----------------------------------------------------------------
  */
-	window._gsDefine("easing.Back", ["easing.Ease"], function(Ease) {
+	window._gsDefine("easing.BackTransition", ["easing.Ease"], function(Ease) {
 		
 		var w = (window.GreenSockGlobals || window),
 			gs = w.com.greensock,
